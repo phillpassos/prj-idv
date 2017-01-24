@@ -1,0 +1,32 @@
+{
+  "name": "prj-idv",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "1.4.8",
+    "bootstrap": "^3.2.0",
+    "angular-route": "1.4.8",
+    "fontawesome": "~4.3.0",
+    "angular-resource": "1.4.8",
+    "angular-messages": "1.4.8",
+    "lodash": "4.x",
+    "moment": "2.13",
+    "highcharts": "~4.1.8",
+    "ng-redirect-to": "~1.0.0",
+    "angular-ui-calendar": "~1.0.1",
+    "angular-bootstrap": "~1.1.1",
+    "angular-file-model": "^0.3.1"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.4.8"
+  },
+  "appPath": "app",
+  "resolutions": {
+    "angular": "1.4.8",
+    "angular-resource": "1.4.8",
+    "angular-messages": "1.4.8",
+    "angular-mocks": "1.4.8",
+    "fontawesome": "~4.3.0",
+    "moment": "~2.11.1",
+    "angular-route": "1.4.8"
+  }
+}

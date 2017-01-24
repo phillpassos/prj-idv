@@ -1,0 +1,8 @@
+C:\Users\Phillip\Desktop\_PROJETOS_\C#\prj-idv\prj-idv\bin\Debug\prj-idv.exe.config
+C:\Users\Phillip\Desktop\_PROJETOS_\C#\prj-idv\prj-idv\bin\Debug\prj-idv.exe
+C:\Users\Phillip\Desktop\_PROJETOS_\C#\prj-idv\prj-idv\bin\Debug\prj-idv.pdb
+C:\Users\Phillip\Desktop\_PROJETOS_\C#\prj-idv\prj-idv\obj\Debug\prj-idv.csprojResolveAssemblyReference.cache
+C:\Users\Phillip\Desktop\_PROJETOS_\C#\prj-idv\prj-idv\obj\Debug\prj-idv.exe
+C:\Users\Phillip\Desktop\_PROJETOS_\C#\prj-idv\prj-idv\obj\Debug\prj-idv.pdb
+C:\Users\Phillip\Desktop\_PROJETOS_\C#\prj-idv\prj-idv\bin\Debug\metas.mdf
+C:\Users\Phillip\Desktop\_PROJETOS_\C#\prj-idv\prj-idv\bin\Debug\metas_log.ldf

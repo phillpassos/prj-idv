@@ -1,0 +1,11 @@
+{
+    "quiet": true,
+    "port": 8091,
+    "secure": true,
+    "host": "localhost",
+    "pathIndex": "app",
+    "only": "app/**/*",
+    "proxy": true,
+    "proxyWhen": "/prj-idv-rest-api/*",
+    "proxyTarget": "http://localhost:3333"
+}
